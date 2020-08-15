@@ -1,0 +1,2 @@
+# fpga_ethernet
+FPGA实现MII接口的100MUDP以太网、RGMII1000M以太网
